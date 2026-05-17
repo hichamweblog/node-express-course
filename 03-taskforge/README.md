@@ -1,8 +1,8 @@
 # 🔧 Course 3: TaskForge — Project Management Platform
 
-> **🚧 Coming Soon** | The Capstone Experience
+> **🟢 Active** | The Capstone Experience
 
-[![Status](https://img.shields.io/badge/Status-Coming%20Soon-yellow?style=for-the-badge)](.)
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)](.)
 [![Course](https://img.shields.io/badge/Course-3%20of%203-purple?style=for-the-badge)](.)
 [![Database](https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 [![Real--Time](https://img.shields.io/badge/Real--Time-Socket.io-black?style=for-the-badge&logo=socket.io)](https://socket.io/)
@@ -26,8 +26,8 @@ This is where junior developers become **senior-ready engineers**.
 
 | Status | Description                                         |
 | :----: | --------------------------------------------------- |
-|   🚧   | **Coming Soon** — Currently under development       |
-|   📅   | Check the main course page for availability updates |
+|   🟢   | **Active** — All 14 modules with lessons available  |
+|   📅   | Project scaffold and models ready to build          |
 
 ---
 
@@ -189,40 +189,40 @@ By completing TaskForge, you will:
 
 | Module | Title                           | Topics                                                                                    |
 | :----: | ------------------------------- | ----------------------------------------------------------------------------------------- |
-| 📁 01  | **Introduction & Architecture** | Course overview, MongoDB vs SQL decision-making, project architecture, development setup  |
-| 📁 02  | **MongoDB Deep Dive**           | MongoDB fundamentals, Atlas cloud setup, CRUD operations, MongoDB Compass, Shell commands |
-| 📁 03  | **Mongoose Advanced Patterns**  | Schemas, validation, virtuals, middleware, plugins, indexes, population strategies        |
+| 📁 01  | **[Introduction & Architecture](./01-introduction-architecture/)** | Course overview, MongoDB vs SQL decision-making, project architecture, development setup  |
+| 📁 02  | **[MongoDB Deep Dive](./02-mongodb-deep-dive/)**           | MongoDB fundamentals, Atlas cloud setup, CRUD operations, MongoDB Compass, Shell commands |
+| 📁 03  | **[Mongoose Advanced Patterns](./03-mongoose-advanced/)**  | Schemas, validation, virtuals, middleware, plugins, indexes, population strategies        |
 
 ### Phase 2: Core Structure
 
 | Module | Title                   | Topics                                                                                 |
 | :----: | ----------------------- | -------------------------------------------------------------------------------------- |
-| 📁 04  | **Teams & Workspaces**  | Multi-tenant data modeling, team CRUD, membership management, workspace settings       |
-| 📁 05  | **Projects & Boards**   | Project management, board creation, column configuration, templates, project settings  |
-| 📁 06  | **Tasks & Assignments** | Task CRUD, drag-and-drop ordering, subtasks, checklists, due dates, priorities, labels |
+| 📁 04  | **[Teams & Workspaces](./04-teams-workspaces/)**  | Multi-tenant data modeling, team CRUD, membership management, workspace settings       |
+| 📁 05  | **[Projects & Boards](./05-projects-boards/)**   | Project management, board creation, column configuration, templates, project settings  |
+| 📁 06  | **[Tasks & Assignments](./06-tasks-assignments/)** | Task CRUD, drag-and-drop ordering, subtasks, checklists, due dates, priorities, labels |
 
 ### Phase 3: Real-Time Features
 
 | Module | Title                        | Topics                                                                                       |
 | :----: | ---------------------------- | -------------------------------------------------------------------------------------------- |
-| 📁 07  | **Real-Time with Socket.io** | Socket.io setup, rooms, namespaces, live board sync, presence indicators, Redis adapter      |
-| 📁 08  | **Notifications System**     | In-app notifications, @mentions, email digests, notification preferences, real-time delivery |
+| 📁 07  | **[Real-Time with Socket.io](./07-realtime-socketio/)** | Socket.io setup, rooms, namespaces, live board sync, presence indicators, Redis adapter      |
+| 📁 08  | **[Notifications System](./08-notifications-system/)**     | In-app notifications, @mentions, email digests, notification preferences, real-time delivery |
 
 ### Phase 4: Advanced Features
 
 | Module | Title                     | Topics                                                                            |
 | :----: | ------------------------- | --------------------------------------------------------------------------------- |
-| 📁 09  | **Aggregation Pipelines** | MongoDB aggregations, analytics dashboards, productivity reports, custom queries  |
-| 📁 10  | **File Attachments**      | GridFS setup, file uploads, Cloudinary integration, image optimization, previews  |
-| 📁 11  | **Activity Logging**      | Audit trails, activity feeds, change tracking, history views, undo patterns       |
-| 📁 12  | **Search & Filtering**    | MongoDB text search, faceted search, complex queries, saved filters, autocomplete |
+| 📁 09  | **[Aggregation Pipelines](./09-aggregation-pipelines/)** | MongoDB aggregations, analytics dashboards, productivity reports, custom queries  |
+| 📁 10  | **[File Attachments](./10-file-attachments/)**      | GridFS setup, file uploads, Cloudinary integration, image optimization, previews  |
+| 📁 11  | **[Activity Logging](./11-activity-logging/)**      | Audit trails, activity feeds, change tracking, history views, undo patterns       |
+| 📁 12  | **[Search & Filtering](./12-search-filtering/)**    | MongoDB text search, faceted search, complex queries, saved filters, autocomplete |
 
 ### Phase 5: Production Ready
 
 | Module | Title                    | Topics                                                                                |
 | :----: | ------------------------ | ------------------------------------------------------------------------------------- |
-| 📁 13  | **Testing WebSockets**   | Testing real-time features, Socket.io mocking, integration tests, E2E with Playwright |
-| 📁 14  | **Deployment & Scaling** | MongoDB Atlas production, connection pooling, Redis clusters, monitoring, security    |
+| 📁 13  | **[Testing WebSockets](./13-testing-websockets/)**   | Testing real-time features, Socket.io mocking, integration tests, E2E with Playwright |
+| 📁 14  | **[Deployment & Scaling](./14-deployment-scaling/)** | MongoDB Atlas production, connection pooling, Redis clusters, monitoring, security    |
 
 ---
 
@@ -432,9 +432,9 @@ After completing the full 3-course series, you'll be ready for:
 | Course outline         |  ✅ Complete   |
 | Module structure       |  ✅ Complete   |
 | Database schema design |  ✅ Complete   |
-| Content development    | 🔄 In Progress |
-| Code examples          |   ⏳ Pending   |
-| Exercises & challenges |   ⏳ Pending   |
+| Content development    |  ✅ Complete   |
+| Code examples          |  ✅ Complete   |
+| Exercises & challenges |  ✅ Complete   |
 | React frontend         |   ⏳ Pending   |
 
 ---
@@ -465,6 +465,6 @@ This isn't just learning. This is becoming a **professional engineer**.
 
 _Part of the [Node.js & Express Professional Course Series](../README.md)_
 
-🚧 **Coming Soon** — The culmination of your Node.js journey awaits 🚧
+🟢 **Active** — Start your capstone journey now! 🚀
 
 </div>

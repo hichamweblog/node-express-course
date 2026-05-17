@@ -9,14 +9,13 @@
 
 ---
 
-## 🚧 Course Status
+## 🟢 Course Status
 
-**Coming Soon** — This course is currently in development.
+**Active** — This course is ready to learn!
 
 Course 1 (DevJobs Pro) taught you the fundamentals. Course 2 takes those skills and applies them to one of the most challenging and rewarding domains in web development: **e-commerce**.
 
-> 🎯 **Target Launch:** Q2-Q3 2026
-> 📣 **Stay Updated:** Star this repository and watch for releases!
+> 🎯 **Start Learning:** Begin with [Module 01: Introduction & Setup](./01-introduction-setup/README.md)
 
 ---
 
@@ -130,21 +129,21 @@ By completing StoreFlow, you will:
 
 ## 📖 Module Overview
 
-| #   | Module                   | Topics                                                   |
-| --- | ------------------------ | -------------------------------------------------------- |
-| 01  | **Introduction & Setup** | Course overview, project architecture, environment setup |
-| 02  | **Prisma Deep Dive**     | Schema language, models, relations, migrations, seeding  |
-| 03  | **Product Catalog**      | Schema design, categories, variants, search, pagination  |
-| 04  | **Shopping Cart**        | Cart architecture, guest carts, persistence, merging     |
-| 05  | **Checkout & Orders**    | Multi-step checkout, order creation, state management    |
-| 06  | **Stripe Payments**      | Payment intents, webhooks, refunds, PCI compliance       |
-| 07  | **Inventory Management** | Stock tracking, reservations, alerts, multi-warehouse    |
-| 08  | **Admin Dashboard**      | React admin, product CRUD, order management, analytics   |
-| 09  | **Email Notifications**  | Transactional emails, templates, queuing, reliability    |
-| 10  | **Advanced Prisma**      | Transactions, raw SQL, aggregations, full-text search    |
-| 11  | **Caching with Redis**   | Product caching, sessions, invalidation, rate limiting   |
-| 12  | **Testing E-Commerce**   | Payment flow tests, mocking, integration tests, CI/CD    |
-| 13  | **Deployment & Scaling** | Production setup, horizontal scaling, monitoring         |
+| #   | Module                   | Topics                                                   | Link |
+| --- | ------------------------ | -------------------------------------------------------- | ---- |
+| 01  | **Introduction & Setup** | Course overview, project architecture, environment setup | [Start →](./01-introduction-setup/README.md) |
+| 02  | **Prisma Deep Dive**     | Schema language, models, relations, migrations, seeding  | [Start →](./02-prisma-deep-dive/README.md) |
+| 03  | **Product Catalog**      | Schema design, categories, variants, search, pagination  | [Start →](./03-product-catalog/README.md) |
+| 04  | **Shopping Cart**        | Cart architecture, guest carts, persistence, merging     | [Start →](./04-shopping-cart/README.md) |
+| 05  | **Checkout & Orders**    | Multi-step checkout, order creation, state management    | [Start →](./05-checkout-orders/README.md) |
+| 06  | **Stripe Payments**      | Payment intents, webhooks, refunds, PCI compliance       | [Start →](./06-stripe-payments/README.md) |
+| 07  | **Inventory Management** | Stock tracking, reservations, alerts, multi-warehouse    | [Start →](./07-inventory-management/README.md) |
+| 08  | **Admin Dashboard**      | React admin, product CRUD, order management, analytics   | [Start →](./08-admin-dashboard/README.md) |
+| 09  | **Email Notifications**  | Transactional emails, templates, queuing, reliability    | [Start →](./09-email-notifications/README.md) |
+| 10  | **Advanced Prisma**      | Transactions, raw SQL, aggregations, full-text search    | [Start →](./10-advanced-prisma/README.md) |
+| 11  | **Caching with Redis**   | Product caching, sessions, invalidation, rate limiting   | [Start →](./11-caching-redis/README.md) |
+| 12  | **Testing E-Commerce**   | Payment flow tests, mocking, integration tests, CI/CD    | [Start →](./12-testing-ecommerce/README.md) |
+| 13  | **Deployment & Scaling** | Production setup, horizontal scaling, monitoring         | [Start →](./13-deployment-scaling/README.md) |
 
 ---
 
